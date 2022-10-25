@@ -1,5 +1,6 @@
 .container {
-  padding: 0 2rem;
+  margin-top: 40px; 
+  padding: 0px 2rem;
 }
 
 .main {
@@ -10,6 +11,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
 }
 
 .footer {
@@ -83,6 +85,7 @@
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   max-width: 300px;
+  height: 200px;
 }
 
 .card:hover,
